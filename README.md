@@ -16,5 +16,5 @@ Javascript Programmer
 
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about JavaScript, PHP, HTML, CSS, SQL
-- 📫 How to reach me: [192.168.0.0](alexsandrogmsdev@gmail.com)
+- 📫 How to reach me: [192.168.0.0](mailto:alexsandrogmsdev@gmail.com)
 - 📌 I´m from Brazil living in Bahia.
