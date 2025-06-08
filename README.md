@@ -14,8 +14,8 @@
 ```js
 const Alexsandro = {
   bio: "Full Stack developer and passionate about technology",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native, NextJs, Node],
+  code: [Javascript/Typescript, PHP],
+  tools: [React (NextJs, Vite), Angular, React Native, Node, Docker, Kubernetes, Terraform, AWS, IBM Cloud],
   challenge: "I'm focused on the JavaScript ecosystem",
   location: "Brazil - BA"
 }
